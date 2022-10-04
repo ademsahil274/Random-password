@@ -26,7 +26,7 @@ THEN a password is generated that matches the selected criteria <br>
 WHEN the password is generated <br>
 THEN the password is either displayed in an alert or written to the page <br>
 
-<img src="./Images/JS-HW3-Demo.png">
+![](./Images/JS-HW3-Demo.png)
 
 ## Review
 
